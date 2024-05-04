@@ -31,10 +31,25 @@ jobs:
         curl -L -o S-repo/Surge/Rules/netflix.list "https://github.com/Blankwonder/surge-list/raw/master/netflix.list"
         # OpenAI
         curl -L -o Q-repo/Surge/Rules/OpenAI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
-        # Claude AI
-        curl -L -o Q-repo/Surge/Rules/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
         # AIGC
         curl -L -o Q-repo/Surge/Rules/AI.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
+        # 速度测试
+        curl -L -o Q-repo/Surge/Rules/speedtest.list "https://ruleset.skk.moe/List/domainset/speedtest.conf"
+        # 常见静态CDN
+        curl -L -o Q-repo/Surge/Rules/cdn_domainset.list "https://ruleset.skk.moe/List/domainset/cdn.conf"
+        curl -L -o Q-repo/Surge/Rules/cdn_non_ip.list "https://ruleset.skk.moe/List/non_ip/cdn.conf"
+        # 苹果&微软CDN
+        curl -L -o Q-repo/Surge/Rules/apple_cdn.list "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
+        curl -L -o Q-repo/Surge/Rules/microsoft_cdn.list "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
+        # 下载 软件、游戏和驱动的下载和更新域名
+        curl -L -o Q-repo/Surge/Rules/download_domainset.list "https://ruleset.skk.moe/List/domainset/download.conf"
+        curl -L -o Q-repo/Surge/Rules/download_non_ip.list "https://ruleset.skk.moe/List/non_ip/download.conf"
+        # 苹果CN
+        curl -L -o Q-repo/Surge/Rules/apple_cn.list "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
+        # 苹果&微软全球
+        curl -L -o Q-repo/Surge/Rules/icloud_private_relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
+        curl -L -o Q-repo/Surge/Rules/apple_services.list "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
+        curl -L -o Q-repo/Surge/Rules/microsoft.list "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
 
     # 适配 Surge 规则
     - name: Edit Surge/Rules
