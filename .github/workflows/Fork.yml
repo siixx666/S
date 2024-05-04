@@ -29,8 +29,6 @@ jobs:
         curl -L -o S-repo/Surge/Rules/apple.list "https://github.com/Blankwonder/surge-list/raw/master/apple.list"
         curl -L -o S-repo/Surge/Rules/telegram.list "https://github.com/Blankwonder/surge-list/raw/master/telegram.list"
         curl -L -o S-repo/Surge/Rules/netflix.list "https://github.com/Blankwonder/surge-list/raw/master/netflix.list"
-        # OpenAI
-        curl -L -o Q-repo/Surge/Rules/openai.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
         # AIGC
         curl -L -o Q-repo/Surge/Rules/ai.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
         # 速度测试
