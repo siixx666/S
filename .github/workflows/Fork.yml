@@ -23,12 +23,18 @@ jobs:
     - name: Download files to Surge
       run: |
         mkdir -p S-repo/Surge/Rules
-        # 苹果
+        # 最小规则
         curl -L -o S-repo/Surge/Rules/blocked.list "https://github.com/Blankwonder/surge-list/raw/master/blocked.list"
         curl -L -o S-repo/Surge/Rules/cn.list "https://github.com/Blankwonder/surge-list/raw/master/cn.list"
         curl -L -o S-repo/Surge/Rules/apple.list "https://github.com/Blankwonder/surge-list/raw/master/apple.list"
         curl -L -o S-repo/Surge/Rules/telegram.list "https://github.com/Blankwonder/surge-list/raw/master/telegram.list"
         curl -L -o S-repo/Surge/Rules/netflix.list "https://github.com/Blankwonder/surge-list/raw/master/netflix.list"
+        # OpenAI
+        curl -L -o Q-repo/Surge/Rules/OpenAI.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
+        # Claude AI
+        curl -L -o Q-repo/Surge/Rules/Claude.list "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Claude.list"
+        # AIGC
+        curl -L -o Q-repo/Surge/Rules/AI.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
 
     # 适配 Surge 规则
     - name: Edit Surge/Rules
