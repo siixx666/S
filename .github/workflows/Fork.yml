@@ -53,6 +53,12 @@ jobs:
         curl -L -o S-repo/Surge/Rules/BiliBili.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
         curl -L -o S-repo/Surge/Rules/ChinaMedia.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list"
         curl -L -o S-repo/Surge/Rules/GlobalMedia.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list"
+        # 规则修正
+        curl -L -o S-repo/Surge/Rules/Unbreak.list "https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/Unbreak.list"
+        # 局域网地址
+        curl -L -o S-repo/Surge/Rules/Lan.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Lan/Lan.list"
+        # 广告拦截
+        curl -L -o S-repo/Surge/Rules/AdBlock.list "https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Surge/Ruleset/AdBlock.list"
 
     # 适配 Surge 规则
     - name: Edit Surge/Rules
