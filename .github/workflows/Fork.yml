@@ -50,6 +50,9 @@ jobs:
         curl -L -o S-repo/Surge/Rules/icloud_private_relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
         curl -L -o S-repo/Surge/Rules/apple_services.list "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
         curl -L -o S-repo/Surge/Rules/microsoft.list "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
+        # 所有流媒体
+        curl -L -o S-repo/Surge/Rules/stream_non_ip.list "https://ruleset.skk.moe/List/non_ip/stream.conf"
+        curl -L -o S-repo/Surge/Rules/stream_ip.list "https://ruleset.skk.moe/List/ip/stream.conf"
 
     # 适配 Surge 规则
     - name: Edit Surge/Rules
