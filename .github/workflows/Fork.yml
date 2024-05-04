@@ -28,7 +28,6 @@ jobs:
         curl -L -o S-repo/Surge/Rules/cn.list "https://github.com/Blankwonder/surge-list/raw/master/cn.list"
         curl -L -o S-repo/Surge/Rules/apple.list "https://github.com/Blankwonder/surge-list/raw/master/apple.list"
         curl -L -o S-repo/Surge/Rules/telegram.list "https://github.com/Blankwonder/surge-list/raw/master/telegram.list"
-        curl -L -o S-repo/Surge/Rules/netflix.list "https://github.com/Blankwonder/surge-list/raw/master/netflix.list"
         # OpenAI
         curl -L -o S-repo/Surge/Rules/openai.list "https://gitlab.com/lodepuly/vpn_tool/-/raw/master/Tool/Loon/Rule/OpenAI.list"
         # AIGC
@@ -48,8 +47,12 @@ jobs:
         curl -L -o S-repo/Surge/Rules/apple_services.list "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
         curl -L -o S-repo/Surge/Rules/microsoft.list "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
         # 所有流媒体
-        curl -L -o S-repo/Surge/Rules/stream_non_ip.list "https://ruleset.skk.moe/List/non_ip/stream.conf"
-        curl -L -o S-repo/Surge/Rules/stream_ip.list "https://ruleset.skk.moe/List/ip/stream.conf"
+        curl -L -o S-repo/Surge/Rules/YouTube.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/YouTube/YouTube.list"
+        curl -L -o S-repo/Surge/Rules/Netflix.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list"
+        curl -L -o S-repo/Surge/Rules/Disney.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list"
+        curl -L -o S-repo/Surge/Rules/BiliBili.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/BiliBili/BiliBili.list"
+        curl -L -o S-repo/Surge/Rules/ChinaMedia.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/ChinaMedia/ChinaMedia.list"
+        curl -L -o S-repo/Surge/Rules/GlobalMedia.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list"
 
     # 适配 Surge 规则
     - name: Edit Surge/Rules
