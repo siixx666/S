@@ -34,20 +34,17 @@ jobs:
         # AIGC
         curl -L -o S-repo/Surge/Rules/ai.list "https://ruleset.skk.moe/List/non_ip/ai.conf"
         # 速度测试
-        curl -L -o S-repo/Surge/Rules/speedtest.list "https://ruleset.skk.moe/List/domainset/speedtest.conf"
-        # 常见静态CDN
-        curl -L -o S-repo/Surge/Rules/cdn_domainset.list "https://ruleset.skk.moe/List/domainset/cdn.conf"
-        curl -L -o S-repo/Surge/Rules/cdn_non_ip.list "https://ruleset.skk.moe/List/non_ip/cdn.conf"
+        curl -L -o S-repo/Surge/Rules/speedtest.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Speedtest/Speedtest.list"
         # 苹果&微软CDN
         curl -L -o S-repo/Surge/Rules/apple_cdn.list "https://ruleset.skk.moe/List/non_ip/apple_cdn.conf"
         curl -L -o S-repo/Surge/Rules/microsoft_cdn.list "https://ruleset.skk.moe/List/non_ip/microsoft_cdn.conf"
-        # 下载 软件、游戏和驱动的下载和更新域名
-        curl -L -o S-repo/Surge/Rules/download_domainset.list "https://ruleset.skk.moe/List/domainset/download.conf"
-        curl -L -o S-repo/Surge/Rules/download_non_ip.list "https://ruleset.skk.moe/List/non_ip/download.conf"
+        # 下载 软件、游戏和驱动的下载和更新域名 
+        curl -L -o S-repo/Surge/Rules/Download.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Download/Download.list"
+        curl -L -o S-repo/Surge/Rules/GameDownload.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/GameDownload/GameDownload.list"
+        curl -L -o S-repo/Surge/Rules/GameDownloadCN.list "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Game/GameDownloadCN/GameDownloadCN.list"
         # 苹果CN
         curl -L -o S-repo/Surge/Rules/apple_cn.list "https://ruleset.skk.moe/List/non_ip/apple_cn.conf"
         # 苹果&微软全球
-        curl -L -o S-repo/Surge/Rules/icloud_private_relay.list "https://ruleset.skk.moe/List/domainset/icloud_private_relay.conf"
         curl -L -o S-repo/Surge/Rules/apple_services.list "https://ruleset.skk.moe/List/non_ip/apple_services.conf"
         curl -L -o S-repo/Surge/Rules/microsoft.list "https://ruleset.skk.moe/List/non_ip/microsoft.conf"
         # 所有流媒体
