@@ -1,6 +1,7 @@
-# 规则名称:AdBlock
-# 规则统计:100207
-
+#TITLE=anti-AD
+#VER=20240608023741
+#URL=https://github.com/privacy-protection-tools/anti-AD
+#TOTAL_LINES=100207
 DOMAIN-SUFFIX,0008d6ba2e.com
 DOMAIN-SUFFIX,000dn.com
 DOMAIN-SUFFIX,0013.cc
