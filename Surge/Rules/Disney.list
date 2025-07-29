@@ -1,8 +1,8 @@
 # NAME: Disney
-# DOMAIN-SUFFIX: 171
+# DOMAIN-SUFFIX: 172
 # PROCESS-NAME: 2
 # USER-AGENT: 1
-# TOTAL: 174
+# TOTAL: 175
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
@@ -119,6 +119,7 @@ DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dlp-media.com
 DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dssedge.com
 DOMAIN-SUFFIX,dssott.com
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
