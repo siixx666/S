@@ -1,1 +1,316 @@
-<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html#  charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box# margin:0# padding:0}html{line-height:1.15# -webkit-text-size-adjust:100%# color:#313131# font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex# flex-direction:column# height:100vh# min-height:100vh}.main-content{margin:8rem auto# padding-left:1.5rem# max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem# font-size:1.5rem# font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem# font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml# base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")# background-repeat:no-repeat# background-size:contain# padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222# color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"></head><body><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'gitlab.com',cType: 'managed',cRay: '9a07acdf0acd0044',cH: 'pygmF7zAN6Z8JfKE52cbHAlXeW.86wDGpbjWBjM8gDk-1763471083-1.2.1.1-dkrrMT4VCZul4aWVfhzLhmUI4t3EY1zIJXqMpq1A8ZK7NkDkxdO4auNAaciNDdgU',cUPMDTk:"\/users\/sign_in?__cf_chl_tk=XU3fuKgK_0oTkRoSLYzj.sbnKiPqykbdpj08R.57PrE-1763471083-1.0.1.1-odu44pDQ1qO1mrvtUh_SgqeUPKGj4x95biqlu1krWxc",cFPWv: 'b',cITimeS: '1763471083',cTplC:0,cTplV:5,cTplB: '0',fa:"\/users\/sign_in?__cf_chl_f_tk=XU3fuKgK_0oTkRoSLYzj.sbnKiPqykbdpj08R.57PrE-1763471083-1.0.1.1-odu44pDQ1qO1mrvtUh_SgqeUPKGj4x95biqlu1krWxc",md: 'UYqzO56sR66hVDkDLXg1KEVV5Xo.yTuLOnwJfT01t7Y-1763471083-1.2.1.1-t_LWZtwxTQwIO6QdQSOy8N1aS7L8C2CD8C0d_mdh0f6KUNm2pR4OI.rjIDfmip1VaefFEF9sUE2zjW_tLKaIKbrDaDgtwnAhfBq_GJwsj.pD179m2epZYelANechkbPpZejsrKdACoiTYb45vDhOmos1ogGneFvFg9V5HmYoT1mR98GGU3nIFTB2lem8ahU2dC3rRHg.B_CjGeuJXzk4oboFo_Gd5.I.NAS194pUCRlPkFRM7aLEhrK3J.sesE6_P4wOp4GjwcaVAYyI2oR5YqXhJCJODi4ASisLz8jeE2mKicB3pQ8.oI60xkeyOlrmt1kMLD.KyRWKadGMw4Hzu63PKxeZ4Zw8CMdNbZxSiLlIKmqkLVJAI1jYdBisO8YtkLBC_czHbQEYRKsJ1jwCIsGe0BoGVJ.eMySfbOm_2dgcXmTRWSyajvAm_OVV0Rt_khCciZMwOpVRMb9eRJ1okuGTVP6zvD4ZAV12k_kV2ZrOrcPMYZEkvAV7Wu3qjjoLgAhAoxBU9_XWkrxHlkX3oVfbBjNFNjitq457SPIPZotFwvKe6iY.ZwM6CI6VKbH6Oy_OTnmMMzv2B4C_Du9vKVp0VevjEHzntv0dbvgcRVgdrxlG2DD.EXnsBtQo3V4QKuzZ0Bo9cTahP4uid4fXMfR95uAVMKm.zI_CE7DcPKcaj5luK8ZYWlvZQGUsf5_.mzmyiwLMCC5fLempdJygMx6sN_gQ1QFuaFyr.Hbd_6VPP1R0NWchUtTCAsfV9nFct_U.QrMGFKsQEgO7q638np9037D1tY1B8_zzzax__gVbcfAUHg1SnGKQMDn5TqI_2OFtgw1ONyq2M9B4NwgqxZO5KHH_0HkyvzgaIMUFgULMVpAxknX6N54YAXq5dWEj8oyudUaBeFJX0rAxwhnq9.BiyoT.NX0.VsvSoi1oaXaChQ2E5oPN_qCLFgtzcd9K',mdrd: '3.PwSI7CgDdw5RLOAjbfaDfG3iVjwdZbApgjho8zDNY-1763471083-1.2.1.1-dMyqFw7_0Dc7kXWljU47H8doLpPeS6ApW1gN0bu4EJKFMA2prBIMDeaqpJJYsQRPANoV_ceHSVDDmeD0_0f7q4XZdQpT4akoPOVVCiSQ827.dFNkOLsED85LZ_PP8CIJEHERycQE42zQF29yqtRhM.sDiDZlQGaDQYhz5RMOSI9_Mr7MGNX3CqzmleJ4QrsOJPym8cAhL1_1.ZO5Lo7kz5przXnv.5ElOuhb0hiGuyucF.pr7ZJ0fCD3JX6acZ3tN1WnahUL9ixtE0I.7vG4mtTMxzgTVpg4sByA6VIZ.fwPkKlyOc2FPvGrXG8e7btpkK44s2_H.j_ltRVo0_6svYKTgCiN232JhGRH1dpoYhILxGB.A2OfRt3xU26nwSyySCt_2.O..7olwqG7MT0Qrxb4SX9vgF.f3RlKHi4OkLgUVQ.c5YiOxXlTvwOAfn7f7mzj8iFh6wnYF1RuPsWXjYFNQE3_ZTsviwVz9QCRMWQuSfxI4dszYzmX.LXBf27mIlu9yDNoWM4BJ0EAZkOmOez2cxFWvfwnJp3LpfWKYKHAH7eMKW1GiLxQK2prE8cRYjqi1Vs.mRE1ZyYd40qCctyeTyywflUBh57hBn1o1HlSeGf7jIWAk7zYHtFew5CCT0PmaQxcLFee4_e0aL5lRWnueQKnFzlmkBLAsMtITh9Aab7xMJ6sKubBDO076HLcx5DxzljPSa2n0wuCBGF2OQtt4GUfiIfgnHJsHuVijBMmrgm5j2zUhl0tfGLb.CImQlMuDQTSYCyGNScAN7fSG6HxnTGv_F0KtfEuUiPx92zILHiLgBageT5PNy2AMqxyPzSE1oUck8HxyLQAUey1r1FcoOQPQedwpJOCJa3YW5OoWttohB2W_k4NlAziRqcwOT9IFvpCv2SCchw.fHVl5v3bVQxN3ckV4Ik_qY5XJPVYa7vJHyG.XDr_oj_DHOy2biZdV671kAs4DPh7.hAR0xujinsJw.mrO2k_KaYXilp9BNeIPbaCA9ZeY8KWfh7DfQafQdgGtVIFl7c_aHH05U9u_yfwacfvlBnehIAtva.JNlPJRBHKvAu50yExCkb40wfSTlr5ERRe7.U5kBbYw7OQYtaOiHn51n0XuBN_qO5QGjp7nam13X8oUW8ZJjQtb2SrtLc2K84H2gWJMKAiHkS1dgdtERTYUAYFemmrmavUPXB4mA5iepHGmEOPGugBbbnAwcuUTco4u9TeAxDLqaCMhajDgMxEKipZr3wxJopusDWWhti_VWFMdD7Muj4tIv67CWz0mxnCXMVrqy6Rwi9rlSBjuMAzBM8DptvgOC1Hnf0CE.GQJLy8rRkchN6YQKMUH7Tc85x9cOmSN2Zmef7mNKtTRW2_jFiKiC.ZzccIGVxcQy.i6S36FErzwde5B5NG7w3ujNs.i21ZVbqzFXwm27M3Eg1kd03_wyP.qhL99Krr7nAFZ_SuaTuD7bPmJHKmc8Ps0RbtUX_22a8TJAPg2LJrsFQsuRN8W1O_R0HtZhlz8QCGfh3po7zCtZKxmC0V_VK1FbJsqKhEHt8mRDO2jKlpvbr63BohEusKlb7IzliRoADWTgeuyrmk67FuIzCqGb.JygN06.oCIX9lGSL0XZ96oaHt1xMAnIQudRse6GqVRa0TltQs3i5fflSZnHOk3wWJrbZOEeh4nWtAv3ofG_RSHz7Ev1WlbBMKFKIbtSAvUKqI.aUxMq6XZs4nXa4cmtVUPj1yV_d8D6FfCXCn8W6kjUwhIsWcYHXW7ZMPM5k6pwMaV..uG6Kt2tRKvywQKOW.JSChfLZGfk5cik_yFZXNLbz2lO4Y4Vcth6jegL.2VrC1aS2VmfLmXB7hNDBoT36mW4BSkK5PkiLqQ3nzcrKHT06E_Be_fT9xd2tRhVZNvwFgEEmBvZquZzFPSbPcRHHW7rjDUkUpsZkTZmj8JFYuUKCReHms24UAdncT2X0QU8Qy5oWKnls9azESXy4H02JiZc6wfcUP8iztnTYuAndduNWE1lY2DecZthVDteoTgHeI1nVLTU_vSbKIufbCbzlEqjiv4d_afUIGqGm7vqoBgss_12inIbAoOBns.lLC1g2dxRAmqL9zTquE',}# var a = document.createElement('script')# a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=9a07acdf0acd0044'# window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash# window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0,location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search# if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash# history.replaceState(null,null,"\/users\/sign_in?__cf_chl_rt_tk=XU3fuKgK_0oTkRoSLYzj.sbnKiPqykbdpj08R.57PrE-1763471083-1.0.1.1-odu44pDQ1qO1mrvtUh_SgqeUPKGj4x95biqlu1krWxc"+ window._cf_chl_opt.cOgUHash)# a.onload = function() {history.replaceState(null,null,ogU)# }}document.getElementsByTagName('head')[0].appendChild(a)# }())# </script></body></html>
+<!DOCTYPE html>
+<html class="html-devise-layout gl-system" lang="en">
+<head prefix="og: http://ogp.me/ns#">
+<meta charset="utf-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<title>Sign in · GitLab</title>
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+window.gon={}# 
+//]]>
+</script>
+
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+const root = document.documentElement# 
+if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+  root.classList.add('gl-dark')# 
+}
+
+window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change',(e) => {
+  if (e.matches) {
+    root.classList.add('gl-dark')# 
+  } else {
+    root.classList.remove('gl-dark')# 
+  }
+})# 
+
+//]]>
+</script>
+
+
+
+
+<meta content="light dark" name="color-scheme">
+<link rel="stylesheet" href="/assets/application-6b1e41f7f17cc86134abdd2925815e40edf13949c5c7d554c1f752b5ef426ca7.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/application_dark-3952725d06c674bc1ec36c273b20d00b06a49a9257f58ea212cdbae47758bf18.css" media="(prefers-color-scheme: dark)" />
+<link rel="stylesheet" href="/assets/page_bundles/login-7240ec00cf3969b710fe5e8959f8ef8eeff66d635ded28839b1b4256ae8d96a3.css" /><link rel="stylesheet" href="/assets/page_bundles/commit_description-9e7efe20f0cef17d0606edabfad0418e9eb224aaeaa2dae32c817060fa60abcc.css" /><link rel="stylesheet" href="/assets/page_bundles/work_items-9f34e9e1785e95144a97edb25299b8dd0d2e641f7efb2d8b7bea3717104ed8f2.css" /><link rel="stylesheet" href="/assets/page_bundles/notes_shared-a4dff941637ebef2cf76105ce3c2b1b2cb2c523f2af7710be4e47d6892e03c41.css" />
+<link rel="stylesheet" href="/assets/tailwind_cqs-8fc5f01a95e81115af88b563c367313aa35f2f4341954085107d89e98a2b9241.css" />
+
+
+<link rel="stylesheet" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" />
+<link rel="stylesheet" href="/assets/highlight/themes/white-9669e20d2bac0337d55977e9ba6cf7540fcbb9d11ec33b69e51bae1d72e40db3.css" media="(prefers-color-scheme: light)" />
+<link rel="stylesheet" href="/assets/highlight/themes/dark-c73a404d1f019e02345db3f656cde81011d1ed7ae616045770ab85f7deac07d6.css" media="(prefers-color-scheme: dark)" />
+
+<script src="/assets/webpack/runtime.d841803d.bundle.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/main.b0e01097.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/tracker.85adcc5f.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/analytics.1f5b93d6.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+window.snowplowOptions = {"namespace":"gl","hostname":"snowplowprd.trx.gitlab.net","cookieDomain":".gitlab.com","appId":"gitlab","formTracking":true,"linkClickTracking":true}
+
+gl = window.gl || {}# 
+gl.snowplowStandardContext = {"schema":"iglu:com.gitlab/gitlab_standard/jsonschema/1-1-7","data":{"environment":"production","source":"gitlab-rails","correlation_id":"9a08f40fe448c942-ATL","plan":null,"extra":{},"user_id":null,"global_user_id":null,"user_type":null,"is_gitlab_team_member":null,"namespace_id":null,"ultimate_parent_namespace_id":null,"project_id":null,"feature_enabled_by_namespace_ids":null,"realm":"saas","deployment_type":".com","instance_id":"ea8bf810-1d6f-4a6a-b4fd-93e8cbd8b57f","unique_instance_id":"b5fa1911-0638-5651-8ec4-5b892ef92e35","host_name":"gitlab.com","instance_version":"18.6.0","context_generated_at":"2025-11-18T16:48:05.197Z"}}
+gl.snowplowPseudonymizedPageUrl = "https://gitlab.com/users/sign_in"# 
+gl.maskedDefaultReferrerUrl = null# 
+gl.ga4MeasurementId = 'G-ENFH3X7M5Y'# 
+gl.duoEvents = ["ai_question_category","perform_completion_worker","process_gitlab_duo_question","agent_platform_session_created","agent_platform_session_dropped","agent_platform_session_finished","agent_platform_session_resumed","agent_platform_session_started","agent_platform_session_stopped","ai_response_time","ci_repository_xray_artifact_created","cleanup_stuck_agent_platform_session","click_purchase_seats_button_group_duo_pro_home_page","code_suggestion_accepted_in_ide","code_suggestion_rejected_in_ide","code_suggestion_shown_in_ide","code_suggestions_connection_details_rate_limit_exceeded","code_suggestions_direct_access_rate_limit_exceeded","code_suggestions_rate_limit_exceeded","create_ai_catalog_item","create_ai_catalog_item_consumer","create_ai_self_hosted_model","default_answer","delete_ai_catalog_item","delete_ai_catalog_item_consumer","delete_ai_self_hosted_model","detected_high_comment_temperature","detected_repeated_high_comment_temperature","encounter_duo_code_review_error_during_review","error_answer","excluded_files_from_duo_code_review","execute_llm_method","find_no_issues_duo_code_review_after_review","find_nothing_to_review_duo_code_review_on_mr","finish_duo_workflow_execution","finish_mcp_tool_call","forced_high_temperature_commenting","i_quickactions_q","include_repository_xray_data_into_code_generation_prompt","mention_gitlabduo_in_mr_comment","post_comment_duo_code_review_on_diff","process_gitlab_duo_slash_command","react_thumbs_down_on_duo_code_review_comment","react_thumbs_up_on_duo_code_review_comment","request_ask_help","request_duo_chat_response","request_review_duo_code_review_on_mr_by_author","request_review_duo_code_review_on_mr_by_non_author","requested_comment_temperature","retry_duo_workflow_execution","start_duo_workflow_execution","start_mcp_tool_call","submit_gitlab_duo_question","tokens_per_embedding","tokens_per_user_request_prompt","tokens_per_user_request_response","trigger_ai_catalog_item","troubleshoot_job","update_ai_catalog_item","update_ai_catalog_item_consumer","update_ai_self_hosted_model","update_model_selection_feature","update_self_hosted_ai_feature_to_vendored_model","view_ai_catalog_item","view_ai_catalog_item_index"]# 
+gl.onlySendDuoEvents = false# 
+
+
+//]]>
+</script>
+<link rel="preload" href="/assets/application-6b1e41f7f17cc86134abdd2925815e40edf13949c5c7d554c1f752b5ef426ca7.css" as="style" type="text/css" nonce="VEiDNXFBAI/8iqsJzG0yxA==">
+<link rel="preload" href="/assets/highlight/themes/white-9669e20d2bac0337d55977e9ba6cf7540fcbb9d11ec33b69e51bae1d72e40db3.css" as="style" type="text/css" nonce="VEiDNXFBAI/8iqsJzG0yxA==">
+<link crossorigin="" href="https://snowplowprd.trx.gitlab.net" rel="preconnect">
+<link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-9892dc17af892e03de41625c0ee325117a3b8ee4ba6005f3a3eac68510030aed.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-sans/GitLabSans-Italic-f96f17332d67b21ada2dfba5f0c0e1d5801eab99330472057bf18edd93d4ccf7.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-29c2152dac8739499dd0fe5cd37a486ebcc7d4798c9b6d3aeab65b3172375b05.woff2" rel="preload">
+<link as="font" crossorigin="" href="/assets/gitlab-mono/GitLabMono-Italic-af36701a2188df32a9dcea12e0424c380019698d4f76da9ad8ea2fd59432cf83.woff2" rel="preload">
+<link rel="preload" href="/assets/fonts-deb7ad1d55ca77c0172d8538d53442af63604ff490c74acc2859db295c125bdb.css" as="style" type="text/css" nonce="VEiDNXFBAI/8iqsJzG0yxA==">
+
+
+
+<script src="/assets/webpack/sentry.0847d0bf.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+
+<script src="/assets/webpack/commons-pages.groups.settings.work_items.show-super_sidebar.6f26c987.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/commons-pages.search.show-super_sidebar.4d8d8208.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/super_sidebar.75207bbf.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/commons-pages.admin.sessions-pages.groups.omniauth_callbacks-pages.ldap.omniauth_callbacks-pages.omn-aac29e51.bd1b73f2.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script src="/assets/webpack/pages.sessions.new.3831488b.chunk.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+window.dataLayer = window.dataLayer || []# 
+function gtag(){dataLayer.push(arguments)# }
+
+gtag('consent','default',{
+  'analytics_storage': 'granted',
+  'ad_storage': 'granted',
+  'functionality_storage': 'granted',
+  'wait_for_update': 500
+})# 
+
+gtag('consent','default',{
+  'analytics_storage': 'denied',
+  'ad_storage': 'denied',
+  'functionality_storage': 'denied',
+  'region': ['CA-QC','CO','EU','GB','IS','KR','LI','NO','PE','RU'],
+  'wait_for_update': 500
+})# 
+
+ window.geofeed = (options) => {
+    dataLayer.push({
+      'event': 'OneTrustCountryLoad',
+      'oneTrustCountryId': options.country.toString(),
+      'oneTrustStateId': options.state?.toString()
+    })
+  }
+
+  const json = document.createElement('script')# 
+  json.setAttribute('src','https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location/geofeed')# 
+  document.head.appendChild(json)# 
+
+//]]>
+</script><script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[]# w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'})# var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:''# j.async=true# j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl# j.setAttribute('nonce',
+'fECvXMRyhd4mepBtIu6K0Q==')# f.parentNode.insertBefore(j,f)# 
+})(window,document,'script','dataLayer','GTM-NJXWQL')# 
+
+
+//]]>
+</script>
+<!-- OneTrust -->
+<script src="https://cdn.cookielaw.org/consent/7f944245-c5cd-4eed-a90e-dd955adfdd08/OtAutoBlock.js" defer="defer" nonce="fECvXMRyhd4mepBtIu6K0Q=="></script>
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+const oneTrustScript = document.createElement('script')# 
+oneTrustScript.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js'# 
+oneTrustScript.dataset.domainScript = '7f944245-c5cd-4eed-a90e-dd955adfdd08'# 
+oneTrustScript.nonce = 'fECvXMRyhd4mepBtIu6K0Q=='
+oneTrustScript.charset = 'UTF-8'# 
+oneTrustScript.defer = true# 
+document.head.appendChild(oneTrustScript)# 
+
+function OptanonWrapper() { }
+
+
+//]]>
+</script>
+
+<meta content="object" property="og:type">
+<meta content="GitLab" property="og:site_name">
+<meta content="Sign in · GitLab" property="og:title">
+<meta content="GitLab.com" property="og:description">
+<meta content="https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="og:image">
+<meta content="64" property="og:image:width">
+<meta content="64" property="og:image:height">
+<meta content="https://gitlab.com/users/sign_in" property="og:url">
+<meta content="summary" property="twitter:card">
+<meta content="Sign in · GitLab" property="twitter:title">
+<meta content="GitLab.com" property="twitter:description">
+<meta content="https://gitlab.com/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg" property="twitter:image">
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="RnAEskxkAKbFn1eZwKI3CJrjzSB355d-p1-5pfqqYs-f49JgpclHGJS7UsP7U1U7lEuHOwA_3SsAFogxkq_-ug" />
+<meta name="csp-nonce" content="fECvXMRyhd4mepBtIu6K0Q==" />
+<meta name="action-cable-url" content="/-/cable" />
+<link href="/-/manifest.json" rel="manifest">
+<link rel="icon" type="image/png" href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" id="favicon" data-original-href="/assets/favicon-72a2cad5025aa931d6ea56c3201d1f18e68a8cd39788c7c80d5b2b82aa5143ef.png" />
+<link rel="apple-touch-icon" type="image/x-icon" href="/assets/apple-touch-icon-b049d4bc0dd9626f31db825d61880737befc7835982586d015bded10b4435460.png" />
+<link href="/search/opensearch.xml" rel="search" title="Search GitLab" type="application/opensearchdescription+xml">
+
+
+
+
+<meta content="GitLab.com" name="description">
+<meta content="#ececef" name="theme-color">
+</head>
+
+<body class="gl-h-full login-page gl-browser-generic gl-platform-other" data-page="sessions:new" data-testid="login-page">
+
+<script nonce="fECvXMRyhd4mepBtIu6K0Q==">
+//<![CDATA[
+gl = window.gl || {}# 
+gl.client = {"isGeneric":true,"isOther":true}# 
+
+
+//]]>
+</script>
+
+
+<div class="gl-h-full gl-flex gl-flex-wrap">
+<div class="container gl-self-center">
+<main class="content">
+<div class="flash-container flash-container-page sticky" data-testid="flash-container">
+<div id="js-global-alerts"></div>
+</div>
+
+<div class="gl-my-5">
+<div class="col-sm-12 gl-text-center">
+<img alt="GitLab.com" class="gl-invisible gl-h-10 js-portrait-logo-detection lazy" data-src="/assets/logo-911de323fa0def29aaf817fca33916653fc92f3ff31647ac41d2c39bbe243edb.svg" src="data:image/gif# base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<h1 class="mb-3 gl-text-size-h2">
+Sign in to GitLab
+</h1>
+</div>
+<div class="gl-w-full gl-ml-auto gl-mr-auto bar sm:gl-w-1/2">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NJXWQL"
+height="0" width="0" style="display:none# visibility:hidden"></iframe></noscript>
+
+<div class="js-non-oauth-login">
+<form class="gl-show-field-errors js-arkose-labs-form" aria-live="assertive" data-testid="sign-in-form" action="/users/sign_in" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HeIgh_EWDkJGqt2O1JdM3jd9pgPDz39m_-kDA02IGNbEcfZVGLtJ_BeO2NTvZi7tOdXsGLQXNTNYoDKXJY2Eow" autocomplete="off" /><div class="form-group">
+<label for="user_login">Username or primary email</label>
+<input class="form-control gl-form-input js-username-field" autocomplete="username" autofocus="autofocus" autocapitalize="off" autocorrect="off" required="required" title="Username or primary email is required." data-testid="username-field" type="text" name="user[login]" id="user_login" />
+</div>
+<div class="form-group">
+<label for="user_password">Password</label>
+<input class="form-control gl-form-input js-password" data-id="user_password" data-required="true" data-title="Password is required." data-name="user[password]" data-testid="password-field" type="password" name="user[password]" id="user_password" />
+<div class="form-text gl-text-right">
+<a href="/users/password/new">Forgot your password?</a>
+</div>
+</div>
+<div class="form-group">
+</div>
+<div class="gl-mb-3">
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input name="user[remember_me]" type="hidden" value="0" autocomplete="off" /><input autocomplete="off" class="custom-control-input" type="checkbox" value="1" name="user[remember_me]" id="user_remember_me" />
+<label class="custom-control-label" for="user_remember_me"><span>Remember me</span></label>
+</div>
+
+</div>
+<button class="gl-button btn btn-block btn-md btn-confirm js-sign-in-button" data-testid="sign-in-button" type="submit"><span class="gl-button-text">
+Sign in
+
+</span>
+
+</button></form>
+</div>
+<div class="gl-mt-3">
+By signing in you accept the <a href='/-/users/terms' target='_blank' rel='noreferrer noopener'>Terms of Use and acknowledge the Privacy Statement and Cookie Policy</a>.
+</div>
+<div class="gl-mt-3 gl-text-center">
+Don&#39# t have an account yet?
+<a data-testid="register-link" data-track-action="click_register_from_sign_in_page" data-track-label="free_registration" href="/users/sign_up">Register now</a>
+</div>
+<div class="gl-flex gl-items-center gl-gap-5" data-testid="divider">
+<hr class="gl-grow gl-border-default">
+or sign in with
+<hr class="gl-grow gl-border-default">
+</div>
+
+<div class="gl-mt-5 gl-text-center gl-flex gl-flex-col gl-gap-3 js-oauth-login">
+<form class="js-omniauth-form" method="post" action="/users/auth/google_oauth2"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<img alt="Google" title="Sign in with Google" class="gl-button-icon lazy" data-src="/assets/auth_buttons/google_64-9ab7462cd2115e11f80171018d8c39bd493fc375e83202fbb6d37a487ad01908.png" src="data:image/gif# base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+Google
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="m92u8RmU1890eO8K9di6UzPIKZHv8s6jtRYvavhMyfdCTngj8DmQcSVc6lDOKdhgPWBjipgqhPYSXx7-kElVgg" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/github"><button class="gl-button btn btn-block btn-md btn-default " data-testid="github-login-button" type="submit"><span class="gl-button-text">
+<img alt="GitHub" title="Sign in with GitHub" class="gl-button-icon lazy" data-src="/assets/auth_buttons/github_64-84041cd0ea392220da96f0fb9b9473c08485c4924b98c776be1bd33b0daab8c0.png" src="data:image/gif# base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+GitHub
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="gRAF2trvvZ5J-ap-SmGovdMdZ4fIhXxzwlUApQSGOJ9Yg9MIM0L6IBjdryRxkMqO3bUtnL9dNiZlHDExbIOk6g" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/bitbucket"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<img alt="Bitbucket" title="Sign in with Bitbucket" class="gl-button-icon lazy" data-src="/assets/auth_buttons/bitbucket_64-daa496030c0c290748e3c2e50f7464d2f5de0e019cce728930e0508a6dac815c.png" src="data:image/gif# base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" />
+<span class="gl-button-text">
+Bitbucket
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="ijh6Bbq5htIR2R4T2ORHk-Xweq7OmXEXIQo9LIrhGHVTq6zXUxTBbED9G0njFSWg61gwtblBO0KGQwy44uSEAA" autocomplete="off" /></form>
+<form class="js-omniauth-form" method="post" action="/users/auth/salesforce"><button class="gl-button btn btn-block btn-md btn-default " type="submit"><span class="gl-button-text">
+<span class="gl-button-text">
+Salesforce
+</span>
+
+</span>
+
+</button><input type="hidden" name="authenticity_token" value="eYOXu6XNQmpE_e76-h7vuNAuKg6LXnjFzrmtEFjPFM2gEEFpTGAF1BXZ66DB742L3oZgFfyGMpBp8JyEMMqIuA" autocomplete="off" /></form>
+<div class="gl-form-checkbox custom-control custom-checkbox">
+<input type="checkbox" name="js-remember-me-omniauth" id="js-remember-me-omniauth" class="custom-control-input" />
+<label class="custom-control-label" for="js-remember-me-omniauth"><span>Remember me
+</span></label>
+</div>
+</div>
+
+
+</div>
+</div>
+</main>
+</div>
+<div class="footer-container gl-w-full gl-self-end">
+<hr class="gl-m-0">
+<div class="container gl-py-5 gl-flex gl-justify-between gl-items-start">
+<div class="gl-hidden md:gl-flex gl-gap-5 gl-flex-wrap">
+<a href="/explore">Explore</a>
+<a href="/help">Help</a>
+<a href="https://about.gitlab.com">About GitLab</a>
+<a target="_blank" class="text-nowrap" rel="noopener noreferrer" href="https://forum.gitlab.com">GitLab community forum</a>
+</div>
+<button class="gl-button btn btn-sm btn-default btn-default-tertiary ot-sdk-show-settings" type="button"><span class="gl-button-text">
+Cookie Preferences
+
+</span>
+
+</button><div class="js-language-switcher" data-locales="[{&quot# value&quot# :&quot# en&quot# ,&quot# percentage&quot# :100,&quot# text&quot# :&quot# English&quot# },{&quot# value&quot# :&quot# ko&quot# ,&quot# percentage&quot# :99,&quot# text&quot# :&quot# 한국어&quot# },{&quot# value&quot# :&quot# ga_IE&quot# ,&quot# percentage&quot# :99,&quot# text&quot# :&quot# Irish&quot# },{&quot# value&quot# :&quot# ja&quot# ,&quot# percentage&quot# :97,&quot# text&quot# :&quot# 日本語&quot# },{&quot# value&quot# :&quot# de&quot# ,&quot# percentage&quot# :97,&quot# text&quot# :&quot# Deutsch&quot# },{&quot# value&quot# :&quot# pt_BR&quot# ,&quot# percentage&quot# :95,&quot# text&quot# :&quot# português (Brasil)&quot# },{&quot# value&quot# :&quot# fr&quot# ,&quot# percentage&quot# :95,&quot# text&quot# :&quot# français&quot# }]"></div>
+
+</div>
+</div>
+
+
+</div>
+</body>
+</html>
